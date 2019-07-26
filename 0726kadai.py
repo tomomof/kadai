@@ -1,4 +1,4 @@
-x=1
+x=3
 print(x)
 x_str=str(x)
 print("my fav num is", x, ".", "x=", x)
